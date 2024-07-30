@@ -11,7 +11,7 @@
 
 <p align="left"> 
   Tenho quase 30 anos, moro no estado de São Paulo e sou apaixonado por tecnologias e animes! Sou um grande curioso pelo universo das linguagens de programação e 
-  um temerário quando o assunto é resolver problemas complexos, e quanto mais eu busco soluções, mais eu quero aprender! :octocat:<br>
+  um aventureiro quando o assunto é resolver problemas complexos, e quanto mais eu busco soluções, mais eu quero aprender! :octocat:<br>
 </p>
 <div display="inline-block">
  <p align="left">👨‍💻 Faço parte da equipe docente da escola <a href="https://www.sp.senac.br/">Senac</a>;</p>
