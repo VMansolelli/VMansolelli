@@ -15,7 +15,7 @@
 </p>
 <div display="inline-block">
  <p align="left">👨‍💻 Faço parte da equipe docente da escola <a href="https://www.sp.senac.br/">Senac</a>;</p>
- <p align="left">📚 Um estudante assíduo de Java Script, Java e SQL;</p>
+ <p align="left">📚 Um estudante do mundo de tecnologia em geral;</p>
  <p align="left">🎮 Adoro jogos e meu objetivo é um dia desenvolver um.</p>
  <p align="left">⛩️ Animes fazem parte da minha rotina, quer falar sobre eles é comigo mesmo.</p>
 </div>
