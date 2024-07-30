@@ -10,7 +10,7 @@
 
 
 <p align="left"> 
-  Tenho quase 30 anos, moro no estado de São Paulo e sou apaixonada por tecnologias e animes! Sou um grande curioso pelo universo das linguagens de programação e 
+  Tenho quase 30 anos, moro no estado de São Paulo e sou apaixonado por tecnologias e animes! Sou um grande curioso pelo universo das linguagens de programação e 
   um temerário quando o assunto é resolver problemas complexos, e quanto mais eu busco soluções, mais eu quero aprender! :octocat:<br>
 </p>
 <div display="inline-block">
