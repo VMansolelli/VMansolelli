@@ -2,7 +2,7 @@
 
 # Victor Mansolelli!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM2ejg4ZmxkdnEzZTh5amlnYXl0em5zcGd4YndvZjh1ZDlodW9iaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Pk9newN8fkbu/giphy.gif" alt="GIF" min-width="400px" max-width="400px" width="400px" align="right">
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=VMansolellii&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
